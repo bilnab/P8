@@ -50,7 +50,7 @@ VRAC et AZURE:
 ## Script   
 [un notebook mettant en oeuvre la segmentation via SVC et random forest (pas terrible)](/P8_random%20forest%20&%20svc%20segmentation.ipynb)  
 [un notebook mettant en oeuvre la segmentation deep learning](/P8_deep_segmentation.ipynb)  
-et [le projet de l'api flask](/tree/main/P8_API_FLASK)  
+et [le projet de l'api flask](/P8_API_FLASK)  
   
  
  
