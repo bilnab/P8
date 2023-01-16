@@ -12,7 +12,9 @@ Dans le cadre de la concéption d'une voiture autonome, les sytèmes embarqués 
 Ce projet a donc pour but d'entrainer et de déployer un modèle de segmentation d'images:  
 * sur 8 catgéories principales
 * en utilisant keras et azure ML
-* via une API Flask
+* via une API Flask  
+
+<img src="/img/Image1.png" width="900">
 
 
 ## Ressources:
