@@ -1,8 +1,6 @@
-# P8  
-<img src="/img/aml.png" width="150"> <img src="/img/keras.png" width="150"> <img src="/img/flask.png" width="150">     
- 
-**Projet deep learning de segmentation d'images**  
-  
+# P8 : Projet deep learning de segmentation d'images  
+<img src="/img/aml.png" width="150"> <img src="/img/keras.png" width="150"> <img src="/img/flask.png" width="150">      
+## Enjeu    
 Dans le cadre de la concéption d'une voiture autonome, les sytèmes embarqués de vision s'articulent autour de 4 piliers
 * l'acquisition d'image temps réél  
 * le traitement d'images
